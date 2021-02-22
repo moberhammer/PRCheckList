@@ -22,4 +22,4 @@
   - [ ] API: manually trigger a branch build (until we can figure out why the automatic build doesn't work anymore)
 - [ ] Do the unit tests run and succeed?
 - [ ] Will it affect other components (FOH, BOH, API, HUB)?
-  - Hold of merge when other PRs are not yet approved.
+  - Hold of the merge when other PRs are not yet approved.
